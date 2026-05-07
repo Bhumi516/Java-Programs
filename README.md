@@ -1,12 +1,8 @@
 # ☕ Java Programming Lab
 
-**Name:** Prachi Chavan  
-**Roll No:** 15  
-**Subject:** Java Programming Lab  
-
----
-
-## 📁 Repository Structure
+**Name:** Bhumi Bhadre  
+**Roll No:** 31  
+**Subject:** Java Programming Lab
 
 ```
 Java-Lab/
@@ -248,3 +244,6 @@ java NetworkingDemo client
 - **Multithreading** — Thread lifecycle, Synchronization, Inter-thread communication
 - **JDBC** — Database connectivity, CRUD, Transactions
 - **Networking** — TCP/IP, UDP, Client-Server architecture
+=======
+# Java-Programs
+>>>>>>> ca4e75076085daa7a980e9d0c196fee352fc430d
